@@ -1,4 +1,0 @@
-/Users/andre/CLionProjects/smoking-gun-interactive-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/andre/CLionProjects/smoking-gun-interactive-test/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/andre/CLionProjects/smoking-gun-interactive-test/cmake-build-debug/CMakeFiles/smoking_gun_interactive_ugly.dir
-/Users/andre/CLionProjects/smoking-gun-interactive-test/cmake-build-debug/CMakeFiles/smoking_gun_interactive_test.dir
